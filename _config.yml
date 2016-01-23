@@ -1,0 +1,29 @@
+name: EuropaNewswire
+favicon: null
+layout_spectrum: 0.3597348448820412
+typography_spectrum: 0.520638226531446
+title: Editorial Image Licensing Agency
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5701521944720298
+  lightness: 0.3984071919694543
+  saturation: 0.24977067182771862
+  rhythmicContrast: 0.8999118632636964
+purpose: []
