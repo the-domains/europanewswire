@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[EuropaNewswire]]></title>
         <description><![CDATA[EuropaNewswire]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/europanewswire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:54:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 18:01:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/europanewswire/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NYC Big Snow Storm 2016]]></title>
-            <description><![CDATA[<article><h1>NYC Big Snow Storm 2016</h1><p>Winter Storm Jonas Whiteout</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a846e9332556efe9664f5a3997757a10bb4f21d.jpg"></article>]]></description>
-            <link>undefined4c052521-d053-43ee-9466-c4ad531eec8a/index.html</link>
+            <description><![CDATA[<article><h1>NYC Big Snow Storm 2016</h1><p>Winter Storm Jonas Whiteout</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82a3bfbc51c7e3a53be9a915172b8f4e68fb1629.jpg"></article>]]></description>
+            <link>https://thegrid.ai/europanewswire/4c052521-d053-43ee-9466-c4ad531eec8a/index.html</link>
             <guid isPermaLink="false">4c052521-d053-43ee-9466-c4ad531eec8a</guid>
             <pubDate>Sat, 23 Jan 2016 17:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vision Zero Press Conference]]></title>
+            <description><![CDATA[<article><h1>Vision Zero Press Conference</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdef2e845ab173a015a83b924da04a8e5f796137.jpg"></article>]]></description>
+            <link>https://thegrid.ai/europanewswire/de381fa8-6fc5-4a0b-811d-1a5b63b95bf6/index.html</link>
+            <guid isPermaLink="false">de381fa8-6fc5-4a0b-811d-1a5b63b95bf6</guid>
+            <pubDate>Sat, 23 Jan 2016 18:01:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
