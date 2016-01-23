@@ -2,6 +2,7 @@ name: EuropaNewswire
 favicon: null
 layout_spectrum: 0.3597348448820412
 typography_spectrum: 0.520638226531446
+title: Editorial Image Licensing Agency
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#697eb5'
+    - '#151515'
+    - '#a5a8b7'
+    - '#334c84'
+    - '#f3faff'
   brandStrength: 0.5701521944720298
   lightness: 0.3984071919694543
   saturation: 0.24977067182771862
